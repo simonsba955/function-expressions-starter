@@ -50,7 +50,7 @@ console.log(`The product of ${firstNum} and ${secondNum} is: ${answer}`);
 ### calcProduct ( ) Rewritten as a Function Expression:
 ```javascript
 // Assigning the function to a variable named product
-const product = function calcProduct(num1, num2) {
+const product = function (num1, num2) {
     return num1 * num2;
 }
 
@@ -61,7 +61,7 @@ console.log(`The product of ${firstNum} and ${secondNum} is: ${product(firstNum,
 ```
 
 ### Function 2:
-Rewrite the welcomeUser ( ) function as a **function expression**.
+Rewrite the welcomeUser ( ) function as a **function expression**.  Use the JS alert ( ) method to display the output in an alert box.
 
 ```javascript
 function welcomeUser (fName) {
