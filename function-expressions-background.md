@@ -61,7 +61,7 @@ console.log(`The product of ${firstNum} and ${secondNum} is: ${product(firstNum,
 ```
 
 ### Function 2:
-Rewrite the welcomeUser ( ) function as a **function expression** and use console.log ( ) to display the output in your browser console.
+Rewrite the welcomeUser ( ) function as a **function expression**.
 
 ```javascript
 function welcomeUser (fName) {
