@@ -2,7 +2,7 @@
 // 04 APR 20XX
 // JS Function Expression Example
 
-// Assign function add to a variable named sum
+// Assign function add to a variable named calcSum
 const calcSum = function(num1, num2){
     return num1 + num2;
 }
