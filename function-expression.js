@@ -19,6 +19,7 @@ console.log(`(Option 1): The sum is: ${answer}`);
 // Option 2
 // Calling the function calcSum from within the template string
 console.log(`(Option 2): The sum is: ${calcSum(20, 4)}`);
+// Option 3
 // Calling the function calcSum from within the template string
 const firstNum = 20;
 const secondNum = 4;
