@@ -2,7 +2,9 @@
 // 04 APR 20XX
 // JS Function Expression Example
 
-// Assign function add to a variable named calcSum
+// Assign function to a variable named calcSum
+// In other words, our function has no name to start with so we
+// are using the variable name (calcSum) as the function name
 const calcSum = function(num1, num2){
     return num1 + num2;
 }
