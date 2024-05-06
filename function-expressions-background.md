@@ -50,14 +50,14 @@ console.log(`The product of ${firstNum} and ${secondNum} is: ${answer}`);
 ### calcProduct ( ) Rewritten as a Function Expression:
 ```javascript
 // Assigning the function to a variable named product
-const product = function (num1, num2) {
+const calcProduct = function (num1, num2) {
     return num1 * num2;
 }
 
 // Call the function and show the answer in the browser console
 const firstNum = 4;
 const secondNum = 5;
-console.log(`The product of ${firstNum} and ${secondNum} is: ${product(firstNum, secondNum)}`);
+console.log(`The product of ${firstNum} and ${secondNum} is: ${calcProduct(firstNum, secondNum)}`);
 ```
 
 ### Function 2:
