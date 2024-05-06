@@ -11,7 +11,7 @@ const calcSum = function(num1, num2){
 
 // Find the sum by calling the function
 // Result of calculation is returned from the function and
-// stored in a new variable named answer
+// stored in a NEW variable named answer
 const answer = calcSum(12, 5);
 // Option 1
 // Displaying the result of the calculation in the browser console
